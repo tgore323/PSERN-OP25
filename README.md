@@ -1,6 +1,6 @@
 # PSERN-OP25
 
-These files can be used to monitor the Puget Sound Emergency Radio Network (PSERN). 
+These files can be used with programs like OP25 to monitor trunked radio systems in the King County, Washington area.
 
 From the [PSERN website](https://psern.org/):
 

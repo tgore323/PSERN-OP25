@@ -1,6 +1,10 @@
-# PSERN-OP25
+# OP25-SEATTLE
 
-These files can be used with programs like OP25 to monitor trunked radio systems in the King County, Washington area.
+These files can be used with programs like OP25 to monitor trunked radio systems in the King County, Washington area (Greater Seattle).
+
+tgid_psern.tsv is for the Puget Sound Emergency Radio Network (PSERN) 
+tgid_jiwn.tsv is for the Justice Integrated Wireless Network 
+tgid_kcmt.tsv is for the King County Metro Transit
 
 From the [PSERN website](https://psern.org/):
 

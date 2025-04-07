@@ -13,3 +13,16 @@ tgid_jiwn.tsv is for the Justice Integrated Wireless Network. which is used by f
 ### tgid_kcmt.tsv
 
 tgid_kcmt.tsv is for the King County Metro Transit's 700 MHz P25 Phase 2 trunked system.
+
+### tgid_pos.tsv
+
+tgid_pos.tsv is for the Port of Seattle. The system is a P25 Phase 2 trunked radio system operating on the 800 MHz band. 
+
+### tgid_wadot.tsv - coming soon
+
+tgid_wadot.tsv is for the Washington State Department of Transportation. This is a 700 MHZ P25 Phase 2 system with sites across the stste. 
+
+### tgid_wasp.tsv - coming soon
+
+tgid_wasp.tsv is for the Washiongton State Patrol. This stste-wide system is a P25 Phase 2 system operating on 700 MHz band. 
+

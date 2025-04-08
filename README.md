@@ -22,7 +22,7 @@ tgid_pos.tsv is for the Port of Seattle. The system is a P25 Phase 2 trunked rad
 
 tgid_wadot.tsv is for the Washington State Department of Transportation. This is a 700 MHZ P25 Phase 2 system with sites across the stste. 
 
-### tgid_wasp.tsv - coming soon
+### tgid_wasp.tsv
 
 tgid_wasp.tsv is for the Washiongton State Patrol. This stste-wide system is a P25 Phase 2 system operating on 700 MHz band. 
 

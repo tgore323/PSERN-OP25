@@ -18,7 +18,7 @@ tgid_kcmt.tsv is for the King County Metro Transit's 700 MHz P25 Phase 2 trunked
 
 tgid_pos.tsv is for the Port of Seattle. The system is a P25 Phase 2 trunked radio system operating on the 800 MHz band. 
 
-### tgid_wadot.tsv - coming soon
+### tgid_wadot.tsv
 
 tgid_wadot.tsv is for the Washington State Department of Transportation. This is a 700 MHZ P25 Phase 2 system with sites across the stste. 
 

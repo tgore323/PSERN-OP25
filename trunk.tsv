@@ -1,0 +1,2 @@
+"sysname"	"control_channel_list"	"offset"	"nac"	"modulation"	"tgid_tags_file"	"whitelist"	"blacklist"	"center_frequency"
+"PSERN"	"851.8875,852.8625,853.825,854.2875"	"0"	"0"	"cqpsk"	"tgid_psern.tsv"	""	"blist.tsv"	""
